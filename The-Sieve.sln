@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sieve", "Sieve\Sieve.csproj", "{48F831F6-2C25-4AD5-886E-F1E5EAAD4582}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sieve.Tests", "Sieve.Tests\Sieve.Tests.csproj", "{008CEFE3-46A2-4605-915F-760A35B32FE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sieve.Main", "Sieve.Main\Sieve.Main.csproj", "{826B5A37-069E-4CAC-B866-74A935CE7E80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48F831F6-2C25-4AD5-886E-F1E5EAAD4582}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48F831F6-2C25-4AD5-886E-F1E5EAAD4582}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48F831F6-2C25-4AD5-886E-F1E5EAAD4582}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48F831F6-2C25-4AD5-886E-F1E5EAAD4582}.Release|Any CPU.Build.0 = Release|Any CPU
+		{008CEFE3-46A2-4605-915F-760A35B32FE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{008CEFE3-46A2-4605-915F-760A35B32FE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{008CEFE3-46A2-4605-915F-760A35B32FE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{008CEFE3-46A2-4605-915F-760A35B32FE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{826B5A37-069E-4CAC-B866-74A935CE7E80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{826B5A37-069E-4CAC-B866-74A935CE7E80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{826B5A37-069E-4CAC-B866-74A935CE7E80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{826B5A37-069E-4CAC-B866-74A935CE7E80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

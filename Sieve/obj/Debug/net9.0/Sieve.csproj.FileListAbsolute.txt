@@ -1,0 +1,12 @@
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\The-Sieve\Sieve\bin\Debug\net9.0\Sieve.deps.json
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\The-Sieve\Sieve\bin\Debug\net9.0\Sieve.dll
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\The-Sieve\Sieve\bin\Debug\net9.0\Sieve.pdb
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\The-Sieve\Sieve\obj\Debug\net9.0\Sieve.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\The-Sieve\Sieve\obj\Debug\net9.0\Sieve.AssemblyInfoInputs.cache
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\The-Sieve\Sieve\obj\Debug\net9.0\Sieve.AssemblyInfo.cs
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\The-Sieve\Sieve\obj\Debug\net9.0\Sieve.csproj.CoreCompileInputs.cache
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\The-Sieve\Sieve\obj\Debug\net9.0\Sieve.sourcelink.json
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\The-Sieve\Sieve\obj\Debug\net9.0\Sieve.dll
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\The-Sieve\Sieve\obj\Debug\net9.0\refint\Sieve.dll
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\The-Sieve\Sieve\obj\Debug\net9.0\Sieve.pdb
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\The-Sieve\Sieve\obj\Debug\net9.0\ref\Sieve.dll
